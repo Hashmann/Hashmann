@@ -14,41 +14,50 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="86"/>
+### ⚒️ Languages and Tools
+#### Frontend:
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="86"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="86"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="86"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwind" width="86"/>
+![html](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
+![html](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=1572B6)
+![html](https://img.shields.io/badge/-sass-090909?style=for-the-badge&logo=sass&logoColor=CC6699)
+![html](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javaScript&logoColor=F7DF1E)
+![html](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap&logoColor=7952B3)
+![html](https://img.shields.io/badge/-TailwindCSS-090909?style=for-the-badge&logo=TailwindCSS&logoColor=06B6D4)
+![html](https://img.shields.io/badge/-vuejs-090909?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![html](https://img.shields.io/badge/-Vuetify-090909?style=for-the-badge&logo=Vuetify&logoColor=1867C0)
+![html](https://img.shields.io/badge/-Quasar-090909?style=for-the-badge&logo=Quasar&logoColor=1976D2)
+![html](https://img.shields.io/badge/-GreenSock-090909?style=for-the-badge&logo=GreenSock&logoColor=88CE02)
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" width="86"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="86"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="86"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg" alt="vuetify" width="86"/>
+#### Backend:
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="86"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="86"/>
+![html](https://img.shields.io/badge/-Nodejs/Express-090909?style=for-the-badge&logo=node.js&logoColor=339933)
+![html](https://img.shields.io/badge/-Laravel-090909?style=for-the-badge&logo=Laravel&logoColor=FF2D20)
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="86"/>
+#### Database:
 
-<!--<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="86"/>-->
-<!--<img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" alt="After Effects" width="86"/>-->
-<!--<img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-line-wordmark.svg" alt="Composer" width="86"/>-->
-<!--<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="86"/>-->
-<!--<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="86"/>-->
-<!--<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="86"/>-->
-<!--<img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" alt="Gulp" width="86"/>-->
-<!--<img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" alt="jetbrains" width="86"/>-->
-<!--<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="86"/>-->
-<!--<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="webpack" width="86"/>-->
-<!--<img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg" alt="woocommerce" width="86"/>-->
-<!--<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="86"/>-->
-<!--<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="86"/>-->
-<div>
+![html](https://img.shields.io/badge/-MySQL/Eloquent-090909?style=for-the-badge&logo=MySQL&logoColor=4479A1)
+![html](https://img.shields.io/badge/-Mongo-090909?style=for-the-badge&logo=MongoDB&logoColor=47A248)
 
-### :fire: My Stats :
+#### Other:
+
+![html](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=csharp&logoColor=239120)
+![html](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=Unity&logoColor=fff)
+![html](https://img.shields.io/badge/-Delphi-090909?style=for-the-badge&logo=Delphi&logoColor=EE1F35)
+
+### Other skill:
+
+![html](https://img.shields.io/badge/-Studio%20One-090909?style=for-the-badge&logo=NONE&logoColor=EE1F35)
+![html](https://img.shields.io/badge/-Ableton%20Live-090909?style=for-the-badge&logo=abletonlive&logoColor=fff)
+![html](https://img.shields.io/badge/-Reaper-090909?style=for-the-badge&logo=NONE&logoColor=fff)
+![html](https://img.shields.io/badge/-After%20Effects-090909?style=for-the-badge&logo=AdobeAfterEffects&logoColor=9999FF)
+![html](https://img.shields.io/badge/-Audition-090909?style=for-the-badge&logo=AdobeAudition&logoColor=9999FF)
+![html](https://img.shields.io/badge/-Photoshop-090909?style=for-the-badge&logo=AdobePhotoshop&logoColor=31A8FF)
+![html](https://img.shields.io/badge/-Autocad-090909?style=for-the-badge&logo=Autodesk&logoColor=0696D7)
+![html](https://img.shields.io/badge/-Blender-090909?style=for-the-badge&logo=Blender&logoColor=F5792A)
+![html](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=figma&logoColor=F24E1E)
+
+[//]: # (### :fire: My Stats :)
+### 🔥 My Stats:
 
 
 
