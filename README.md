@@ -3,7 +3,7 @@
   <!--<img src="https://media.giphy.com/media/lBm4rgtyIPJmywXzLW/giphy.gif" width="400"/>-->
   <!--<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="400"/>-->
   <!--<img src="https://github.com/Hashmann/Hashmann/blob/main/52O8.gif" width="400"/>-->
-  <img src="https://media.giphy.com/media/4hCJsNJ7zRcic/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/4hCJsNJ7zRcic/giphy.gif" width="200"/>
   
  <!--<img src="" width="400"/>-->
 </div>
@@ -58,7 +58,7 @@
 
 [//]: # (### :fire: My Stats :)
 ### 🔥 My Stats:
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hashmann&theme=dark)](https://git.io/streak-stats)
 
 
 
