@@ -17,7 +17,6 @@
 ### ⚒️ Languages and Tools
 #### Frontend:
 
-[//]: # ( [html](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5) )
 ![html](https://img.shields.io/badge/-HTML-22272e?style=for-the-badge&logo=html5)
 ![html](https://img.shields.io/badge/-CSS-22272e?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![html](https://img.shields.io/badge/-sass-22272e?style=for-the-badge&logo=sass&logoColor=CC6699)
