@@ -45,7 +45,7 @@
 ![html](https://img.shields.io/badge/-Unity-22272e?style=for-the-badge&logo=Unity&logoColor=fff)
 ![html](https://img.shields.io/badge/-Delphi-22272e?style=for-the-badge&logo=Delphi&logoColor=EE1F35)
 
-### Other skill:
+### Other skills:
 
 ![html](https://img.shields.io/badge/-Studio%20One-22272e?style=for-the-badge&logo=NONE&logoColor=EE1F35)
 ![html](https://img.shields.io/badge/-Ableton%20Live-22272e?style=for-the-badge&logo=abletonlive&logoColor=fff)
