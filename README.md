@@ -49,8 +49,8 @@
 
 ### 💡 Other skills:
 
-![html](https://img.shields.io/badge/-Studio%20One-22272e?style=for-the-badge&logo=NONE&logoColor=EE1F35)
 ![html](https://img.shields.io/badge/-Ableton%20Live-22272e?style=for-the-badge&logo=abletonlive&logoColor=fff)
+![html](https://img.shields.io/badge/-Studio%20One-22272e?style=for-the-badge&logo=NONE&logoColor=EE1F35)
 ![html](https://img.shields.io/badge/-Reaper-22272e?style=for-the-badge&logo=NONE&logoColor=fff)
 
 ![html](https://img.shields.io/badge/-After%20Effects-22272e?style=for-the-badge&logo=AdobeAfterEffects&logoColor=9999FF)
