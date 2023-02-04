@@ -1,9 +1,8 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Vyacheslav</h1>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/4hCJsNJ7zRcic/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/4hCJsNJ7zRcic/giphy.gif" width="150"/>
  <!--<img src="" width="400"/>-->
 </div>
-
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=hashmann&label=PROFILE+VIEWS" alt=""/>
