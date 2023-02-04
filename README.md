@@ -27,6 +27,8 @@
 ![html](https://img.shields.io/badge/-Quasar-22272e?style=for-the-badge&logo=Quasar&logoColor=1976D2)
 ![html](https://img.shields.io/badge/-GreenSock-22272e?style=for-the-badge&logo=GreenSock&logoColor=88CE02)
 ![html](https://img.shields.io/badge/-Chart.js-22272e?style=for-the-badge&logo=Chart.js&logoColor=FF6384)
+<!-- ![html](https://img.shields.io/badge/-Nuxt.js-22272e?style=for-the-badge&logo=Nuxt.js&logoColor=00DC82) -->
+<!-- ![html](https://img.shields.io/badge/-Next.js-22272e?style=for-the-badge&logo=Next.js&logoColor=fff) -->
 
 #### Backend:
 
@@ -34,12 +36,19 @@
 ![html](https://img.shields.io/badge/-Laravel-22272e?style=for-the-badge&logo=Laravel&logoColor=FF2D20)
 <!-- ![html](https://img.shields.io/badge/-NestJS-22272e?style=for-the-badge&logo=NestJS&logoColor=E0234E) -->
 
-#### Database:
+#### Database and ORM:
 
 ![html](https://img.shields.io/badge/-Mongo%20DB-22272e?style=for-the-badge&logo=MongoDB&logoColor=47A248)
 ![html](https://img.shields.io/badge/-MySQL/Eloquent-22272e?style=for-the-badge&logo=MySQL&logoColor=4479A1)
 <!-- ![html](https://img.shields.io/badge/-Sequelize-22272e?style=for-the-badge&logo=Sequelize&logoColor=52B0E7) -->
 <!-- ![html](https://img.shields.io/badge/-PostgreSQL-22272e?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1) -->
+
+<details>
+  <summary>Unit Testing and API Docs:</summary>
+  
+  ![html](https://img.shields.io/badge/-jest-22272e?style=for-the-badge&logo=jest&logoColor=C21325)
+  ![html](https://img.shields.io/badge/-Swagger-22272e?style=for-the-badge&logo=Swagger&logoColor=85EA2D)
+</details>
 
 <details>
   <summary>Other:</summary>
@@ -72,6 +81,8 @@
   <summary>📚 Learning:</summary>
 
   ![html](https://img.shields.io/badge/-react-22272e?style=for-the-badge&logo=react&logoColor=61DAFB)
+<!--   ![html](https://img.shields.io/badge/-Svelte-22272e?style=for-the-badge&logo=Svelte&logoColor=FF3E00) -->
+<!--   ![html](https://img.shields.io/badge/-Angular-22272e?style=for-the-badge&logo=Angular&logoColor=DD0031) -->
 </details>
 
 ***
