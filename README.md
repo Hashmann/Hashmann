@@ -1,9 +1,8 @@
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Vyacheslav</h1>
+<h3 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px"/> I'm Vyacheslav</h3>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/4hCJsNJ7zRcic/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/4hCJsNJ7zRcic/giphy.gif" width="120"/>
  <!--<img src="" width="400"/>-->
 </div>
-
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=hashmann&label=PROFILE+VIEWS" alt=""/>
   <a href="https://www.codewars.com/users/Flex.XO" target="_blank"><img src="https://www.codewars.com/users/Flex.XO/badges/micro" alt=""/></a>
