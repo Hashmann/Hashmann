@@ -10,7 +10,7 @@
   <a href="https://www.codewars.com/users/Flex.XO" target="_blank"><img src="https://www.codewars.com/users/Flex.XO/badges/micro" alt=""/></a>
 </div>
 
----
+***
 
 ### ⚒️ Languages and Tools
 #### Frontend:
@@ -42,8 +42,8 @@
   <summary>Other:</summary>
 
   ![html](https://img.shields.io/badge/-C%23-22272e?style=for-the-badge&logo=csharp&logoColor=239120)
-  ![html](https://img.shields.io/badge/-Unity-22272e?style=for-the-badge&logo=Unity&logoColor=fff)
   ![html](https://img.shields.io/badge/-Delphi-22272e?style=for-the-badge&logo=Delphi&logoColor=EE1F35)
+  ![html](https://img.shields.io/badge/-Unity-22272e?style=for-the-badge&logo=Unity&logoColor=fff)
 </details>
 
 
