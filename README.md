@@ -1,13 +1,6 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm #Hashmann</h1>
 <div id="header" align="center">
-  <!--<img src="https://media.giphy.com/media/lBm4rgtyIPJmywXzLW/giphy.gif" width="400"/>-->
-  <!--<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="400"/>-->
-  <!--<img src="https://github.com/Hashmann/Hashmann/blob/main/52O8.gif" width="400"/>-->
   <img src="https://media.giphy.com/media/4hCJsNJ7zRcic/giphy.gif" width="200"/>
-  
-
-  
-  
  <!--<img src="" width="400"/>-->
 </div>
 
@@ -44,39 +37,51 @@
 ![html](https://img.shields.io/badge/-Mongo-22272e?style=for-the-badge&logo=MongoDB&logoColor=47A248)
 ![html](https://img.shields.io/badge/-MySQL/Eloquent-22272e?style=for-the-badge&logo=MySQL&logoColor=4479A1)
 
-#### Other:
+<details>
+  <summary>Other:</summary>
 
-![html](https://img.shields.io/badge/-C%23-22272e?style=for-the-badge&logo=csharp&logoColor=239120)
-![html](https://img.shields.io/badge/-Unity-22272e?style=for-the-badge&logo=Unity&logoColor=fff)
-![html](https://img.shields.io/badge/-Delphi-22272e?style=for-the-badge&logo=Delphi&logoColor=EE1F35)
+  ![html](https://img.shields.io/badge/-C%23-22272e?style=for-the-badge&logo=csharp&logoColor=239120)
+  ![html](https://img.shields.io/badge/-Unity-22272e?style=for-the-badge&logo=Unity&logoColor=fff)
+  ![html](https://img.shields.io/badge/-Delphi-22272e?style=for-the-badge&logo=Delphi&logoColor=EE1F35)
+</details>
 
-***
-
-### 💡 Other skills:
-
-![html](https://img.shields.io/badge/-Ableton%20Live-22272e?style=for-the-badge&logo=abletonlive&logoColor=fff)
-![html](https://img.shields.io/badge/-Studio%20One-22272e?style=for-the-badge&logo=NONE&logoColor=EE1F35)
-![html](https://img.shields.io/badge/-Reaper-22272e?style=for-the-badge&logo=NONE&logoColor=fff)
-
-![html](https://img.shields.io/badge/-After%20Effects-22272e?style=for-the-badge&logo=AdobeAfterEffects&logoColor=9999FF)
-![html](https://img.shields.io/badge/-Audition-22272e?style=for-the-badge&logo=AdobeAudition&logoColor=9999FF)
-![html](https://img.shields.io/badge/-Photoshop-22272e?style=for-the-badge&logo=AdobePhotoshop&logoColor=31A8FF)
-![html](https://img.shields.io/badge/-Figma-22272e?style=for-the-badge&logo=figma&logoColor=F24E1E)
-
-![html](https://img.shields.io/badge/-Autocad-22272e?style=for-the-badge&logo=Autodesk&logoColor=0696D7)
-![html](https://img.shields.io/badge/-Blender-22272e?style=for-the-badge&logo=Blender&logoColor=F5792A)
 
 ***
 
-[//]: # (### :fire: My Stats :)
+<details>
+  <summary>💡Other skills:</summary>
+
+  ![html](https://img.shields.io/badge/-Ableton%20Live-22272e?style=for-the-badge&logo=abletonlive&logoColor=fff)
+  ![html](https://img.shields.io/badge/-Studio%20One-22272e?style=for-the-badge&logo=NONE&logoColor=EE1F35)
+  ![html](https://img.shields.io/badge/-Reaper-22272e?style=for-the-badge&logo=NONE&logoColor=fff)
+
+  ![html](https://img.shields.io/badge/-After%20Effects-22272e?style=for-the-badge&logo=AdobeAfterEffects&logoColor=9999FF)
+  ![html](https://img.shields.io/badge/-Audition-22272e?style=for-the-badge&logo=AdobeAudition&logoColor=9999FF)
+  ![html](https://img.shields.io/badge/-Photoshop-22272e?style=for-the-badge&logo=AdobePhotoshop&logoColor=31A8FF)
+  ![html](https://img.shields.io/badge/-Figma-22272e?style=for-the-badge&logo=figma&logoColor=F24E1E)
+
+  ![html](https://img.shields.io/badge/-Autocad-22272e?style=for-the-badge&logo=Autodesk&logoColor=0696D7)
+  ![html](https://img.shields.io/badge/-Blender-22272e?style=for-the-badge&logo=Blender&logoColor=F5792A)
+</details>
+
+<details>
+  <summary>📚 Learning:</summary>
+
+  ![html](https://img.shields.io/badge/-react-22272e?style=for-the-badge&logo=react&logoColor=61DAFB)
+</details>
+
+***
+
 ### 🔥 My Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hashmann&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hashmann&theme=tokyonight)](https://git.io/streak-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hashmann&show_icons=true&theme=tokyonight)
-
+<details>
+  <summary></summary>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hashmann&show_icons=true&theme=tokyonight)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hashmann&theme=tokyonight)](https://git.io/streak-stats)
+</details>
 
 
 
