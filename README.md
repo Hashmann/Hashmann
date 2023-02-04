@@ -31,6 +31,7 @@
   ![html](https://img.shields.io/badge/-Chart.js-22272e?style=for-the-badge&logo=Chart.js&logoColor=FF6384)
   <!-- ![html](https://img.shields.io/badge/-Nuxt.js-22272e?style=for-the-badge&logo=Nuxt.js&logoColor=00DC82) -->
   <!-- ![html](https://img.shields.io/badge/-Next.js-22272e?style=for-the-badge&logo=Next.js&logoColor=fff) -->
+  <!--   ![html](https://img.shields.io/badge/-TypeScript-22272e?style=for-the-badge&logo=TypeScript&logoColor=3178C6) -->
 </details>
 
 <details>
