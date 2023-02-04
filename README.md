@@ -26,6 +26,7 @@
 ![html](https://img.shields.io/badge/-Vuetify-22272e?style=for-the-badge&logo=Vuetify&logoColor=1867C0)
 ![html](https://img.shields.io/badge/-Quasar-22272e?style=for-the-badge&logo=Quasar&logoColor=1976D2)
 ![html](https://img.shields.io/badge/-GreenSock-22272e?style=for-the-badge&logo=GreenSock&logoColor=88CE02)
+![html](https://img.shields.io/badge/-Chart.js-22272e?style=for-the-badge&logo=Chart.js&logoColor=FF6384)
 
 #### Backend:
 
