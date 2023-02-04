@@ -16,11 +16,13 @@
 ![html](https://img.shields.io/badge/-HTML-22272e?style=for-the-badge&logo=html5)
 ![html](https://img.shields.io/badge/-CSS-22272e?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![html](https://img.shields.io/badge/-sass-22272e?style=for-the-badge&logo=sass&logoColor=CC6699)
+![html](https://img.shields.io/badge/-gulp-22272e?style=for-the-badge&logo=gulp&logoColor=CF4647)
 ![html](https://img.shields.io/badge/-Bootstrap-22272e?style=for-the-badge&logo=Bootstrap&logoColor=7952B3)
 ![html](https://img.shields.io/badge/-TailwindCSS-22272e?style=for-the-badge&logo=TailwindCSS&logoColor=06B6D4)
 
 ![html](https://img.shields.io/badge/-JavaScript-22272e?style=for-the-badge&logo=javaScript&logoColor=F7DF1E)
 ![html](https://img.shields.io/badge/-vuejs-22272e?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![html](https://img.shields.io/badge/-vite-22272e?style=for-the-badge&logo=vite&logoColor=646CFF)
 ![html](https://img.shields.io/badge/-Vuetify-22272e?style=for-the-badge&logo=Vuetify&logoColor=1867C0)
 ![html](https://img.shields.io/badge/-Quasar-22272e?style=for-the-badge&logo=Quasar&logoColor=1976D2)
 ![html](https://img.shields.io/badge/-GreenSock-22272e?style=for-the-badge&logo=GreenSock&logoColor=88CE02)
@@ -52,8 +54,9 @@
   <summary>Other:</summary>
 
   ![html](https://img.shields.io/badge/-C%23-22272e?style=for-the-badge&logo=csharp&logoColor=239120)
-  ![html](https://img.shields.io/badge/-Delphi-22272e?style=for-the-badge&logo=Delphi&logoColor=EE1F35)
   ![html](https://img.shields.io/badge/-Unity-22272e?style=for-the-badge&logo=Unity&logoColor=fff)
+  
+  ![html](https://img.shields.io/badge/-Delphi-22272e?style=for-the-badge&logo=Delphi&logoColor=EE1F35)
 </details>
 
 
