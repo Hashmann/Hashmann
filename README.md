@@ -18,6 +18,7 @@
   ![html](https://img.shields.io/badge/-CSS-22272e?style=for-the-badge&logo=css3&logoColor=1572B6)
   ![html](https://img.shields.io/badge/-sass-22272e?style=for-the-badge&logo=sass&logoColor=CC6699)
   ![html](https://img.shields.io/badge/-gulp-22272e?style=for-the-badge&logo=gulp&logoColor=CF4647)
+  ![html](https://img.shields.io/badge/-Webpack-22272e?style=for-the-badge&logo=Webpack&logoColor=8DD6F9)
   ![html](https://img.shields.io/badge/-Bootstrap-22272e?style=for-the-badge&logo=Bootstrap&logoColor=7952B3)
   ![html](https://img.shields.io/badge/-TailwindCSS-22272e?style=for-the-badge&logo=TailwindCSS&logoColor=06B6D4)
 
