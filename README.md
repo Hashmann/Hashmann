@@ -31,7 +31,6 @@
   ![html](https://img.shields.io/badge/-Chart.js-22272e?style=for-the-badge&logo=Chart.js&logoColor=FF6384)
   <!-- ![html](https://img.shields.io/badge/-Nuxt.js-22272e?style=for-the-badge&logo=Nuxt.js&logoColor=00DC82) -->
   <!-- ![html](https://img.shields.io/badge/-Next.js-22272e?style=for-the-badge&logo=Next.js&logoColor=fff) -->
-  <!--   ![html](https://img.shields.io/badge/-TypeScript-22272e?style=for-the-badge&logo=TypeScript&logoColor=3178C6) -->
 </details>
 
 <details>
@@ -90,6 +89,7 @@
   <summary>📚 Learning:</summary>
 
   ![html](https://img.shields.io/badge/-react-22272e?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![html](https://img.shields.io/badge/-TypeScript-22272e?style=for-the-badge&logo=TypeScript&logoColor=3178C6)
 <!--   ![html](https://img.shields.io/badge/-Svelte-22272e?style=for-the-badge&logo=Svelte&logoColor=FF3E00) -->
 <!--   ![html](https://img.shields.io/badge/-Angular-22272e?style=for-the-badge&logo=Angular&logoColor=DD0031) -->
 </details>
