@@ -99,7 +99,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hashmann&show_icons=true&theme=tokyonight)
 
 <details>
-  <summary></summary>
+  <summary>👁</summary>
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hashmann&theme=tokyonight)](https://git.io/streak-stats)
 </details>
