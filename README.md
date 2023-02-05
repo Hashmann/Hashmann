@@ -4,7 +4,7 @@
  <!--<img src="" width="400"/>-->
 </div>
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=hashmann&label=views+👀" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=hashmann&label=views+👀&style=flat-square&color=22272e" alt=""/>
   <a href="https://www.codewars.com/users/Flex.XO" target="_blank"><img src="https://www.codewars.com/users/Flex.XO/badges/micro" alt=""/></a>
 </div>
 
