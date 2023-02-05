@@ -66,15 +66,15 @@
   ![html](https://img.shields.io/badge/-Ableton%20Live-22272e?style=for-the-badge&logo=abletonlive&logoColor=fff)
   ![html](https://img.shields.io/badge/-Studio%20One-22272e?style=for-the-badge&logo=NONE&logoColor=EE1F35)
   ![html](https://img.shields.io/badge/-Reaper-22272e?style=for-the-badge&logo=NONE&logoColor=fff)
+  
+  ![html](https://img.shields.io/badge/-Autocad/Civil%203D/3ds%20Max-22272e?style=for-the-badge&logo=Autodesk&logoColor=0696D7)
+  ![html](https://img.shields.io/badge/-Blender-22272e?style=for-the-badge&logo=Blender&logoColor=F5792A)
 
   ![html](https://img.shields.io/badge/-Audition-22272e?style=for-the-badge&logo=AdobeAudition&logoColor=9999FF)
   ![html](https://img.shields.io/badge/-Figma-22272e?style=for-the-badge&logo=figma&logoColor=F24E1E)
   ![html](https://img.shields.io/badge/-After%20Effects-22272e?style=for-the-badge&logo=AdobeAfterEffects&logoColor=9999FF)
   ![html](https://img.shields.io/badge/-Photoshop-22272e?style=for-the-badge&logo=AdobePhotoshop&logoColor=31A8FF)
   ![html](https://img.shields.io/badge/-Illustrator-22272e?style=for-the-badge&logo=adobeIllustrator&logoColor=FF9A00)
-
-  ![html](https://img.shields.io/badge/-Autocad/Civil%203D/3ds%20Max-22272e?style=for-the-badge&logo=Autodesk&logoColor=0696D7)
-  ![html](https://img.shields.io/badge/-Blender-22272e?style=for-the-badge&logo=Blender&logoColor=F5792A)
   
   ![html](https://img.shields.io/badge/-C%23-22272e?style=for-the-badge&logo=csharp&logoColor=239120)
   ![html](https://img.shields.io/badge/-Unity-22272e?style=for-the-badge&logo=Unity&logoColor=fff)
@@ -94,12 +94,14 @@
 <details>
   <summary>💜 Love:</summary>
   
-  ![html](https://img.shields.io/badge/-JetBrains-22272e?style=for-the-badge&logo=JetBrains&logoColor=fff)
+<!--   ![html](https://img.shields.io/badge/-JetBrains-22272e?style=for-the-badge&logo=JetBrains&logoColor=fff) -->
+  ![html](https://img.shields.io/badge/-PhpStorm-22272e?style=for-the-badge&logo=PhpStorm&logoColor=fff)
+  ![html](https://img.shields.io/badge/-WebStorm-22272e?style=for-the-badge&logo=WebStorm&logoColor=fff)
 </details>
 
 ***
 
-### 🔥 My Stats:
+### 🔥 My Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hashmann&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hashmann&layout=compact&theme=tokyonight)](https://github.com/Hashmann)
