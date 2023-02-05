@@ -83,7 +83,7 @@
 </details>
 
 <details>
-  <summary>📚 Learning:</summary>
+  <summary>📒 Learning:</summary>
 
   ![html](https://img.shields.io/badge/-react-22272e?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![html](https://img.shields.io/badge/-TypeScript-22272e?style=for-the-badge&logo=TypeScript&logoColor=3178C6)
