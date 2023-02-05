@@ -82,7 +82,7 @@
   ![html](https://img.shields.io/badge/-Photoshop-22272e?style=for-the-badge&logo=AdobePhotoshop&logoColor=31A8FF)
   ![html](https://img.shields.io/badge/-Figma-22272e?style=for-the-badge&logo=figma&logoColor=F24E1E)
 
-  ![html](https://img.shields.io/badge/-Autocad-22272e?style=for-the-badge&logo=Autodesk&logoColor=0696D7)
+  ![html](https://img.shields.io/badge/-Autocad/Civil%203D/3ds%20Max-22272e?style=for-the-badge&logo=Autodesk&logoColor=0696D7)
   ![html](https://img.shields.io/badge/-Blender-22272e?style=for-the-badge&logo=Blender&logoColor=F5792A)
 </details>
 
