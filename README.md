@@ -29,6 +29,7 @@
   ![html](https://img.shields.io/badge/-Quasar-22272e?style=for-the-badge&logo=Quasar&logoColor=1976D2)
   ![html](https://img.shields.io/badge/-GreenSock-22272e?style=for-the-badge&logo=GreenSock&logoColor=88CE02)
   ![html](https://img.shields.io/badge/-Chart.js-22272e?style=for-the-badge&logo=Chart.js&logoColor=FF6384)
+<!--   ![html](https://img.shields.io/badge/-Socket.io-22272e?style=for-the-badge&logo=Socket.io&logoColor=fff) -->
   <!-- ![html](https://img.shields.io/badge/-Nuxt.js-22272e?style=for-the-badge&logo=Nuxt.js&logoColor=00DC82) -->
   <!-- ![html](https://img.shields.io/badge/-Next.js-22272e?style=for-the-badge&logo=Next.js&logoColor=fff) -->
 </details>
