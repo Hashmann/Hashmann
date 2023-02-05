@@ -12,7 +12,7 @@
 
 ### ⚒️ Languages and Tools
 <details>
-  <summary>Ⓒ Frontend:</summary> 
+  <summary>🅒 Frontend:</summary> 
 
   ![html](https://img.shields.io/badge/-HTML-22272e?style=for-the-badge&logo=html5)
   ![html](https://img.shields.io/badge/-CSS-22272e?style=for-the-badge&logo=css3&logoColor=1572B6)
@@ -35,7 +35,7 @@
 </details>
 
 <details>
-  <summary>Ⓢ Backend:</summary> 
+  <summary>🅢 Backend:</summary> 
 
   ![html](https://img.shields.io/badge/-Node.js/Express-22272e?style=for-the-badge&logo=node.js&logoColor=339933)
   ![html](https://img.shields.io/badge/-Laravel-22272e?style=for-the-badge&logo=Laravel&logoColor=FF2D20)
@@ -43,7 +43,7 @@
 </details>
 
 <details>
-  <summary>Ⓓ Database:</summary> 
+  <summary>🅓 Database:</summary> 
 
   ![html](https://img.shields.io/badge/-Mongo%20DB-22272e?style=for-the-badge&logo=MongoDB&logoColor=47A248)
   ![html](https://img.shields.io/badge/-MySQL/Eloquent-22272e?style=for-the-badge&logo=MySQL&logoColor=4479A1)
@@ -52,7 +52,7 @@
 </details>
 
 <details>
-  <summary>Ⓣ Unit Test and API Docs:</summary>
+  <summary>🅣 Unit Test and API Docs:</summary>
   
   ![html](https://img.shields.io/badge/-jest-22272e?style=for-the-badge&logo=jest&logoColor=C21325)
   ![html](https://img.shields.io/badge/-Swagger-22272e?style=for-the-badge&logo=Swagger&logoColor=85EA2D)
