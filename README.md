@@ -92,7 +92,7 @@
 </details>
 
 <details>
-  <summary>💜</summary>
+  <summary>💜 Love:</summary>
   
   ![html](https://img.shields.io/badge/-JetBrains-22272e?style=for-the-badge&logo=JetBrains&logoColor=fff)
 </details>
