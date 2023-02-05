@@ -97,6 +97,8 @@
 <!--   ![html](https://img.shields.io/badge/-JetBrains-22272e?style=for-the-badge&logo=JetBrains&logoColor=fff) -->
   ![html](https://img.shields.io/badge/-PhpStorm-22272e?style=for-the-badge&logo=PhpStorm&logoColor=fff)
   ![html](https://img.shields.io/badge/-WebStorm-22272e?style=for-the-badge&logo=WebStorm&logoColor=fff)
+  ![html](https://img.shields.io/badge/-VS%20Code-22272e?style=for-the-badge&logo=VisualStudioCode&logoColor=007ACC)
+  ![html](https://img.shields.io/badge/-Insomnia-22272e?style=for-the-badge&logo=Insomnia&logoColor=4000BF)
 </details>
 
 ***
