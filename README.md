@@ -91,6 +91,12 @@
 <!--   ![html](https://img.shields.io/badge/-Angular-22272e?style=for-the-badge&logo=Angular&logoColor=DD0031) -->
 </details>
 
+<details>
+  <summary>💜</summary>
+  
+  ![html](https://img.shields.io/badge/-JetBrains-22272e?style=for-the-badge&logo=JetBrains&logoColor=fff)
+</details>
+
 ***
 
 ### 🔥 My Stats:
@@ -103,13 +109,6 @@
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hashmann&theme=tokyonight)](https://git.io/streak-stats)
 </details>
-
-
-
-
-
-
-
 
 
 <!--
