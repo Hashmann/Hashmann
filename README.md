@@ -43,7 +43,7 @@
 </details>
 
 <details>
-  <summary>Database and ORM:</summary> 
+  <summary>Database:</summary> 
 
   ![html](https://img.shields.io/badge/-Mongo%20DB-22272e?style=for-the-badge&logo=MongoDB&logoColor=47A248)
   ![html](https://img.shields.io/badge/-MySQL/Eloquent-22272e?style=for-the-badge&logo=MySQL&logoColor=4479A1)
