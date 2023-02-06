@@ -45,7 +45,7 @@
 <details>
   <summary>🅓 Database:</summary> 
 
-  ![html](https://img.shields.io/badge/-Mongo%20DB-22272e?style=for-the-badge&logo=MongoDB&logoColor=47A248)
+  ![html](https://img.shields.io/badge/-Mongo%20DB/Mongoose-22272e?style=for-the-badge&logo=MongoDB&logoColor=47A248)
   ![html](https://img.shields.io/badge/-MySQL/Eloquent-22272e?style=for-the-badge&logo=MySQL&logoColor=4479A1)
 <!--   ![html](https://img.shields.io/badge/-Redis-22272e?style=for-the-badge&logo=Redis&logoColor=DC382D) -->
   <!-- ![html](https://img.shields.io/badge/-Sequelize-22272e?style=for-the-badge&logo=Sequelize&logoColor=52B0E7) -->
