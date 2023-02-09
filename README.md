@@ -91,6 +91,18 @@
   ![html](https://img.shields.io/badge/-TypeScript-22272e?style=for-the-badge&logo=TypeScript&logoColor=3178C6)
 <!--   ![html](https://img.shields.io/badge/-Svelte-22272e?style=for-the-badge&logo=Svelte&logoColor=FF3E00) -->
 <!--   ![html](https://img.shields.io/badge/-Angular-22272e?style=for-the-badge&logo=Angular&logoColor=DD0031) -->
+  
+  <details>
+  <summary>Queue for study:</summary>
+
+  ![html](https://img.shields.io/badge/-Angular-22272e?style=for-the-badge&logo=Angular&logoColor=DD0031)
+  ![html](https://img.shields.io/badge/-NestJS-22272e?style=for-the-badge&logo=NestJS&logoColor=E0234E)
+  ![html](https://img.shields.io/badge/-PostgreSQL-22272e?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1)
+  ![html](https://img.shields.io/badge/-Sequelize-22272e?style=for-the-badge&logo=Sequelize&logoColor=52B0E7)
+  ![html](https://img.shields.io/badge/-Svelte-22272e?style=for-the-badge&logo=Svelte&logoColor=FF3E00)
+    
+  </details>
+  
 </details>
 
 <details>
