@@ -7,6 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=hashmann&label=views+👀&style=flat-square&color=22272e" alt=""/>
   <a href="https://www.codewars.com/users/Flex.XO" target="_blank"><img src="https://www.codewars.com/users/Flex.XO/badges/micro" alt=""/></a>
 </div>
+<!-- <p size="12" color="#00ffff" align="center">We won't learn everything. But our task is to have time to learn as much as possible© Brian Wilson Kernighan</p> -->
 
 ***
 
