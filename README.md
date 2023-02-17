@@ -119,8 +119,8 @@
 
 ### 🔥 My Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?theme=tokyonight&username=hashmann&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=tokyonight&username=hashmann&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hashmann&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hashmann&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
   <summary>👁</summary>
