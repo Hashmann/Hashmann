@@ -129,7 +129,7 @@
 
 ***
 
-### 👨‍💻 My Project
+### 👨‍💻 My Projects
 
 - [AppJS-start-template](https://github.com/Hashmann/AppJS-start-template) Fullstack JavaScript blog application [in progress]
 
