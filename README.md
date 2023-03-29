@@ -4,15 +4,21 @@
  <!--<img src=" 👨‍💻  📒  :man_technologist:" width="400"/>-->
 </div>
 
-- Engineer-surveyor with 10+ years of experience
-- I love programming, music, art, philosophy, psychology, and I am also very interested in the principles of the human brain
-- In his youth, he was fond of sailing and other sports
-
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=hashmann&label=views+👀&style=flat-square&color=22272e" alt=""/>
   <a href="https://www.codewars.com/users/Flex.XO" target="_blank"><img src="https://www.codewars.com/users/Flex.XO/badges/micro" alt=""/></a>
 </div>
 <!-- <p size="12" color="#00ffff" align="center">We won't learn everything. But our task is to have time to learn as much as possible© Brian Wilson Kernighan</p> -->
+
+- Engineer-surveyor with 10+ years of experience
+- I love programming, music, art, philosophy, psychology, and I am also very interested in the principles of the human brain
+- In his youth, he was fond of sailing and other sports
+
+<div align="center">
+  
+  Contact me: yarkov.slav@gmail.com
+
+</div>
 
 ***
 
