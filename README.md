@@ -1,7 +1,7 @@
 <h3 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px"/> I'm Vyacheslav. Welcome to my GitHub profile!</h3>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/4hCJsNJ7zRcic/giphy.gif" width="120"/>
- <!--<img src=" 👨‍💻  📒  :man_technologist:" width="400"/>-->
+ <!--<img src=" 👨‍💻  📒 👨‍💻  :man_technologist:" width="400"/>-->
 </div>
 
 <div id="header" align="center">
@@ -126,6 +126,12 @@
 <!--   ![html](https://img.shields.io/badge/-VS%20Code-22272e?style=for-the-badge&logo=VisualStudioCode&logoColor=007ACC) -->
 <!--   ![html](https://img.shields.io/badge/-Insomnia-22272e?style=for-the-badge&logo=Insomnia&logoColor=4000BF) -->
 </details>
+
+***
+
+### 👨‍💻 My Project
+
+- [AppJS-start-template](https://github.com/Hashmann/AppJS-start-template) Fullstack JavaScript blog application [in progress]
 
 ***
 
