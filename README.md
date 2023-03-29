@@ -5,14 +5,15 @@
 </div>
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=hashmann&label=views+👀&style=flat-square&color=22272e" alt=""/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt=""/>
   <a href="https://www.codewars.com/users/Flex.XO" target="_blank"><img src="https://www.codewars.com/users/Flex.XO/badges/micro" alt=""/></a>
 </div>
-<!-- <p size="12" color="#00ffff" align="center">We won't learn everything. But our task is to have time to learn as much as possible© Brian Wilson Kernighan</p> -->
 
 - Engineer-surveyor with 10+ years of experience
 - I love programming, music, art, philosophy, psychology, and I am also very interested in the principles of the human brain
 - In his youth, he was fond of sailing and other sports
+
+<!-- <p size="12" color="#00ffff" align="center">We won't learn everything. But our task is to have time to learn as much as possible© Brian Wilson Kernighan</p> -->
 
 <div align="center">
   
@@ -140,6 +141,8 @@
 </details>
 
 <h3 align="center">Thank you for your visit! 💜</h3>
+
+<div align="center"><img src="https://komarev.com/ghpvc/?username=hashmann&label=views+👀&style=flat-square&color=22272e" alt=""/></div>
 
 <!--
 **Hashmann/Hashmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
