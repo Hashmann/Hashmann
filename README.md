@@ -1,8 +1,13 @@
-<h3 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px"/> I'm Vyacheslav.</h3>
+<h3 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px"/> I'm Vyacheslav. Welcome to my GitHub profile!</h3>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/4hCJsNJ7zRcic/giphy.gif" width="120"/>
  <!--<img src=" 👨‍💻  📒  :man_technologist:" width="400"/>-->
 </div>
+
+- Engineer-surveyor with 10+ years of experience
+- I love programming, music, art, philosophy, psychology, and I am also very interested in the principles of the human brain
+- In his youth, he was fond of sailing and other sports
+
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=hashmann&label=views+👀&style=flat-square&color=22272e" alt=""/>
   <a href="https://www.codewars.com/users/Flex.XO" target="_blank"><img src="https://www.codewars.com/users/Flex.XO/badges/micro" alt=""/></a>
@@ -128,6 +133,7 @@
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hashmann&theme=tokyonight)](https://git.io/streak-stats)
 </details>
 
+<h3 align="center">Thank you for your visit! 💜</h3>
 
 <!--
 **Hashmann/Hashmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
