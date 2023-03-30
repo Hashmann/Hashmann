@@ -9,6 +9,7 @@
   <a href="https://www.codewars.com/users/Flex.XO" target="_blank"><img src="https://www.codewars.com/users/Flex.XO/badges/micro" alt=""/></a>
 </div>
 
+- I have commercial experience of about a year on freelancing
 - Engineer-surveyor with 10+ years of experience
 - I love programming, music, art, philosophy, psychology, and I am also very interested in the principles of the human brain
 - In his youth, he was fond of sailing and other sports
