@@ -11,8 +11,10 @@
 
 - I have commercial experience of about a year on freelancing
 - Engineer-surveyor with 10+ years of experience
-- I love programming, [music](https://www.youtube.com/@yaroo5ound5) <a href="https://www.youtube.com/@yaroo5ound5" target="_blank">music</a>, art, philosophy, psychology, and I am also very interested in the principles of the human brain
+- I love programming, [music](https://www.youtube.com/@yaroo5ound5), art, philosophy, psychology, and I am also very interested in the principles of the human brain
 - In his youth, he was fond of sailing and other sports
+
+<a href="https://www.youtube.com/@yaroo5ound5" target="_blank">music</a>
 
 <!-- <p size="12" color="#00ffff" align="center">We won't learn everything. But our task is to have time to learn as much as possible© Brian Wilson Kernighan</p> -->
 
