@@ -16,9 +16,10 @@
 
 <!-- <p size="12" color="#00ffff" align="center">We won't learn everything. But our task is to have time to learn as much as possible© Brian Wilson Kernighan</p> -->
 
-<div align="center">
+<div align="center"> Contact me:
   
-  Contact me: yarkov.slav@gmail.com
+  <span>Email: yarkov.slav@gmail.com</span><br>
+  <span>Telegram: https://t.me/Hash_mann</span>
 
 </div>   
 
