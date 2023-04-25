@@ -133,7 +133,7 @@
 
 ### 👨‍💻 My Projects
 
-- [AppJS-start-template](https://github.com/Hashmann/AppJS-start-template) Fullstack JavaScript blog application (TLD) [ in progress ]
+- [AppJS-start-template](https://github.com/Hashmann/AppJS-start-template) Express + Vue blog application (TLD) [ in progress ]
 
 ***
 
