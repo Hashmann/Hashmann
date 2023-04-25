@@ -9,10 +9,10 @@
   <a href="https://www.codewars.com/users/Flex.XO" target="_blank"><img src="https://www.codewars.com/users/Flex.XO/badges/micro" alt=""/></a>
 </div>
 
-- I have commercial experience of about a year on freelancing
-- Engineer-surveyor with 10+ years of experience
-- I adore programming, sound engineering, music ([my music](https://www.youtube.com/@yaroo5ound)), art, philosophy, psychology, and I am also very interested in the principles of the human brain
-- In my youth I was fond of yachting and other sports
+- I have commercial experience of about a year on freelancing.
+- Engineer-surveyor with 10+ years of experience.
+- I adore programming, sound engineering, music ([my music](https://www.youtube.com/@yaroo5ound)), art, philosophy, psychology, and I am also very interested in the principles of the human brain.
+- In my youth I was fond of yachting and other sports.
 
 <!-- <p size="12" color="#00ffff" align="center">We won't learn everything. But our task is to have time to learn as much as possible© Brian Wilson Kernighan</p> -->
 
