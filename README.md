@@ -131,10 +131,6 @@
 
 ***
 
-### 👨‍💻 My Projects
-
-- [AppJS-start-template](https://github.com/Hashmann/AppJS-start-template) Express + MongoDB + VueJS blog application (TLD) [ in progress ]
-
 <table align ="center">
     <thead>
         <tr> 
