@@ -166,13 +166,8 @@
             </td>
             <td rowspan=1 align="center">
               <details>
-                <summary>Template blog application (TLD)</summary>
-                  <code>
-                    const stack = {
-                      Express,
-                      MongoDB
-                    }
-                  </code>
+                <summary>Template blog application (TLD)</summary> 
+                <code>Stack: Express, MongoDB</code>
               </details>
             </td>
             <td rowspan=1 align="center">
@@ -188,11 +183,7 @@
             <td rowspan=1 align="center">
               <details>
                 <summary>Telegram bot for communicating with chatGPT voice</summary>
-                  <code>
-                    const stack = {
-                      NodeJS,
-                    }
-                  </code>
+                  <code>Stack: NodeJS, noDB</code>
               </details>
             </td>
             <td rowspan=1 align="center">
@@ -201,6 +192,7 @@
         </tr>
     </tbody>
 </table>
+
 
 ***
 
