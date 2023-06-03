@@ -183,7 +183,7 @@
             </td>
             <td rowspan=1 align="center">
               <details>
-                <summary>Telegram bot for communicating with chatGPT voice</summary>
+                <summary>Telegram bot for voice communication with ChatGPT</summary>
                   <code>Stack: NodeJS, noDB</code>
               </details>
             </td>
