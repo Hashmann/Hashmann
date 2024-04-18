@@ -6,6 +6,7 @@
 
 <div id="header" align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt=""/>
+  <img src="https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=TypeScript&logoColor=black" alt=""/>
   <a href="https://www.codewars.com/users/Flex.XO" target="_blank"><img src="https://www.codewars.com/users/Flex.XO/badges/micro" alt=""/></a>
 </div>
 
@@ -18,7 +19,7 @@
 
 <div align="center"> Contact me:
   
-  <span>Email: yarkov.slav@gmail.com</span><br>
+  <span>Email: yarkov.slav@gmail.com</span> or <span>9arkov@gmail.com</span><br>
   <span>Telegram: https://t.me/Hash_mann</span>
 
 </div>   
@@ -54,7 +55,7 @@
 
   ![html](https://img.shields.io/badge/-Node.js/Express-22272e?style=for-the-badge&logo=node.js&logoColor=339933)
   ![html](https://img.shields.io/badge/-Laravel-22272e?style=for-the-badge&logo=Laravel&logoColor=FF2D20)
-  <!-- ![html](https://img.shields.io/badge/-NestJS-22272e?style=for-the-badge&logo=NestJS&logoColor=E0234E) -->
+  ![html](https://img.shields.io/badge/-NestJS-22272e?style=for-the-badge&logo=NestJS&logoColor=E0234E)
 </details>
 
 <details>
@@ -62,7 +63,7 @@
 
   ![html](https://img.shields.io/badge/-Mongo%20DB/Mongoose-22272e?style=for-the-badge&logo=MongoDB&logoColor=47A248)
   ![html](https://img.shields.io/badge/-MySQL/Eloquent-22272e?style=for-the-badge&logo=MySQL&logoColor=4479A1)
-<!--   ![html](https://img.shields.io/badge/-Redis-22272e?style=for-the-badge&logo=Redis&logoColor=DC382D) -->
+  <!-- ![html](https://img.shields.io/badge/-Redis-22272e?style=for-the-badge&logo=Redis&logoColor=DC382D) -->
   <!-- ![html](https://img.shields.io/badge/-Sequelize-22272e?style=for-the-badge&logo=Sequelize&logoColor=52B0E7) -->
   <!-- ![html](https://img.shields.io/badge/-PostgreSQL-22272e?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1) -->
 </details>
@@ -102,18 +103,18 @@
   <summary>📗 Learning:</summary>
 
   ![html](https://img.shields.io/badge/-react-22272e?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![html](https://img.shields.io/badge/-TypeScript-22272e?style=for-the-badge&logo=TypeScript&logoColor=3178C6)
-<!--   ![html](https://img.shields.io/badge/-Svelte-22272e?style=for-the-badge&logo=Svelte&logoColor=FF3E00) -->
-<!--   ![html](https://img.shields.io/badge/-Angular-22272e?style=for-the-badge&logo=Angular&logoColor=DD0031) -->
+  <!-- ![html](https://img.shields.io/badge/-TypeScript-22272e?style=for-the-badge&logo=TypeScript&logoColor=3178C6) -->
+  <!-- ![html](https://img.shields.io/badge/-Svelte-22272e?style=for-the-badge&logo=Svelte&logoColor=FF3E00) -->
+  <!-- ![html](https://img.shields.io/badge/-Angular-22272e?style=for-the-badge&logo=Angular&logoColor=DD0031) -->
   
   <details>
   <summary>Queue for study:</summary>
 
   ![html](https://img.shields.io/badge/-Svelte-22272e?style=for-the-badge&logo=Svelte&logoColor=FF3E00)
   ![html](https://img.shields.io/badge/-Angular-22272e?style=for-the-badge&logo=Angular&logoColor=DD0031)
-  ![html](https://img.shields.io/badge/-NestJS-22272e?style=for-the-badge&logo=NestJS&logoColor=E0234E)
-  ![html](https://img.shields.io/badge/-PostgreSQL-22272e?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1)
-  ![html](https://img.shields.io/badge/-Sequelize-22272e?style=for-the-badge&logo=Sequelize&logoColor=52B0E7)
+  <!-- ![html](https://img.shields.io/badge/-NestJS-22272e?style=for-the-badge&logo=NestJS&logoColor=E0234E) -->
+  <!-- ![html](https://img.shields.io/badge/-PostgreSQL-22272e?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1) -->
+  <!-- ![html](https://img.shields.io/badge/-Sequelize-22272e?style=for-the-badge&logo=Sequelize&logoColor=52B0E7) -->
     
   </details>
   
