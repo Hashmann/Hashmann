@@ -181,12 +181,12 @@
             </td>
             <td rowspan=1 align="center">
               <details>
-                <summary>Template blog application (TLD)</summary> 
+                <summary>Template blog application</summary> 
                 <code>Stack: Express, MongoDB</code>
               </details>
             </td>
             <td rowspan=1 align="center">
-              <img src="https://img.shields.io/badge/development-red" alt="status development">
+              <img src="https://img.shields.io/badge/cancel-red" alt="status cancel">
             </td>
         </tr>
         <tr>
