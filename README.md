@@ -19,28 +19,41 @@
 
 <div align="center"> Contact me:
   
-  <span>Email: yarkov.slav@gmail.com</span> or <span>9arkov@gmail.com</span><br>
-  <span>Telegram: https://t.me/Hash_mann</span>
+  <!--<span>Email: yarkov.slav@gmail.com</span> or -->
+  <span>9arkov@gmail.com</span><br>
+  <span>Telegram: https://t.me/Hashman_dev</span>
 
 </div>   
 
 ***
 
 ### ⚒️ Languages and Tools
+
+  <details>
+  <summary>★︎ Main:</summary> 
+
+  ![html](https://img.shields.io/badge/-TypeScript-22272e?style=for-the-badge&logo=TypeScript&logoColor=3178C6)
+  ![html](https://img.shields.io/badge/-NestJS-22272e?style=for-the-badge&logo=NestJS&logoColor=E0234E)
+  ![html](https://img.shields.io/badge/-Mongo%20DB-22272e?style=for-the-badge&logo=MongoDB&logoColor=47A248)
+  ![html](https://img.shields.io/badge/-RabbitMQ-22272e?style=for-the-badge&logo=RabbitMQ&logoColor=3178C6)
+  ![html](https://img.shields.io/badge/-Redis-22272e?style=for-the-badge&logo=Redis&logoColor=3178C6)
+  ![html](https://img.shields.io/badge/-GraphQL-22272e?style=for-the-badge&logo=GraphQL&logoColor=3178C6)
+</details>
+
 <details>
   <summary>🅒 Frontend:</summary> 
 
-  ![html](https://img.shields.io/badge/-HTML-22272e?style=for-the-badge&logo=html5)
+  <!--![html](https://img.shields.io/badge/-HTML-22272e?style=for-the-badge&logo=html5)
   ![html](https://img.shields.io/badge/-CSS-22272e?style=for-the-badge&logo=css3&logoColor=1572B6)
   ![html](https://img.shields.io/badge/-sass-22272e?style=for-the-badge&logo=sass&logoColor=CC6699)
   ![html](https://img.shields.io/badge/-gulp-22272e?style=for-the-badge&logo=gulp&logoColor=CF4647)
-  ![html](https://img.shields.io/badge/-Webpack-22272e?style=for-the-badge&logo=Webpack&logoColor=8DD6F9)
+  ![html](https://img.shields.io/badge/-Webpack-22272e?style=for-the-badge&logo=Webpack&logoColor=8DD6F9)-->
   ![html](https://img.shields.io/badge/-Bootstrap-22272e?style=for-the-badge&logo=Bootstrap&logoColor=7952B3)
   ![html](https://img.shields.io/badge/-TailwindCSS-22272e?style=for-the-badge&logo=TailwindCSS&logoColor=06B6D4)
 
-  ![html](https://img.shields.io/badge/-JavaScript-22272e?style=for-the-badge&logo=javaScript&logoColor=F7DF1E)
+  <!--![html](https://img.shields.io/badge/-JavaScript-22272e?style=for-the-badge&logo=javaScript&logoColor=F7DF1E)-->
   ![html](https://img.shields.io/badge/-vuejs-22272e?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-  ![html](https://img.shields.io/badge/-vite-22272e?style=for-the-badge&logo=vite&logoColor=646CFF)
+  <!--![html](https://img.shields.io/badge/-vite-22272e?style=for-the-badge&logo=vite&logoColor=646CFF)-->
   ![html](https://img.shields.io/badge/-Vuetify-22272e?style=for-the-badge&logo=Vuetify&logoColor=1867C0)
   ![html](https://img.shields.io/badge/-Quasar-22272e?style=for-the-badge&logo=Quasar&logoColor=1976D2)
   ![html](https://img.shields.io/badge/-GreenSock-22272e?style=for-the-badge&logo=GreenSock&logoColor=88CE02)
@@ -65,7 +78,7 @@
   ![html](https://img.shields.io/badge/-MySQL/Eloquent-22272e?style=for-the-badge&logo=MySQL&logoColor=4479A1)
   <!-- ![html](https://img.shields.io/badge/-Redis-22272e?style=for-the-badge&logo=Redis&logoColor=DC382D) -->
   <!-- ![html](https://img.shields.io/badge/-Sequelize-22272e?style=for-the-badge&logo=Sequelize&logoColor=52B0E7) -->
-  <!-- ![html](https://img.shields.io/badge/-PostgreSQL-22272e?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1) -->
+  ![html](https://img.shields.io/badge/-PostgreSQL-22272e?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1)
 </details>
 
  <details>
@@ -110,7 +123,7 @@
   <details>
   <summary>Queue for study:</summary>
 
-  ![html](https://img.shields.io/badge/-Svelte-22272e?style=for-the-badge&logo=Svelte&logoColor=FF3E00)
+  <!--![html](https://img.shields.io/badge/-Svelte-22272e?style=for-the-badge&logo=Svelte&logoColor=FF3E00)-->
   ![html](https://img.shields.io/badge/-Angular-22272e?style=for-the-badge&logo=Angular&logoColor=DD0031)
   <!-- ![html](https://img.shields.io/badge/-NestJS-22272e?style=for-the-badge&logo=NestJS&logoColor=E0234E) -->
   <!-- ![html](https://img.shields.io/badge/-PostgreSQL-22272e?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1) -->
