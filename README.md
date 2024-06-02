@@ -81,12 +81,12 @@
   ![html](https://img.shields.io/badge/-PostgreSQL/TypeORM-22272e?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1)
 </details>
 
- <details>
-  <summary>🅣 Tests and API Docs</summary> <!-- and API Docs: -->
+ <!-- <details> -->
+  <!-- <summary>🅣 Tests and API Docs</summary> <!-- and API Docs: -->
   
-  ![html](https://img.shields.io/badge/-jest-22272e?style=for-the-badge&logo=jest&logoColor=C21325)
+  <!--![html](https://img.shields.io/badge/-jest-22272e?style=for-the-badge&logo=jest&logoColor=C21325)
   ![html](https://img.shields.io/badge/-Swagger-22272e?style=for-the-badge&logo=Swagger&logoColor=85EA2D)
-</details>
+</details> -->
 
 ***
 
