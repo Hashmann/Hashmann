@@ -34,6 +34,7 @@
 
   ![html](https://img.shields.io/badge/-TypeScript-22272e?style=for-the-badge&logo=TypeScript&logoColor=3178C6)
   ![html](https://img.shields.io/badge/-NestJS-22272e?style=for-the-badge&logo=NestJS&logoColor=E0234E)
+  ![html](https://img.shields.io/badge/-Next.js-22272e?style=for-the-badge&logo=Next.js&logoColor=E0234E)
   ![html](https://img.shields.io/badge/-Mongo%20DB-22272e?style=for-the-badge&logo=MongoDB&logoColor=47A248)
   ![html](https://img.shields.io/badge/-RabbitMQ-22272e?style=for-the-badge&logo=RabbitMQ&logoColor=3178C6)
   ![html](https://img.shields.io/badge/-Redis-22272e?style=for-the-badge&logo=Redis&logoColor=3178C6)
