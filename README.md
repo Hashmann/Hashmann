@@ -35,7 +35,7 @@
   <summary>★︎ Main:</summary> 
 
   ![html](https://img.shields.io/badge/-TypeScript-22272e?style=for-the-badge&logo=TypeScript)
-  ![html](https://img.shields.io/badge/-NestJS-22272e?style=for-the-badge&logo=NestJS)
+  ![html](https://img.shields.io/badge/-NestJS-22272e?style=for-the-badge&logo=NestJS&logoColor=E0234E)
   ![html](https://img.shields.io/badge/-Next.js-22272e?style=for-the-badge&logo=Next.js)
   ![html](https://img.shields.io/badge/-Electron-22272e?style=for-the-badge&logo=Electron)
   ![html](https://img.shields.io/badge/-Go-22272e?style=for-the-badge&logo=Go)
@@ -73,9 +73,10 @@
 <details>
   <summary>🅢 Backend:</summary> 
 
-  <!-- ![html](https://img.shields.io/badge/-Node.js/Express-22272e?style=for-the-badge&logo=node.js&logoColor=339933) -->
-  ![html](https://img.shields.io/badge/-Laravel-22272e?style=for-the-badge&logo=Laravel&logoColor=FF2D20)
   ![html](https://img.shields.io/badge/-NestJS-22272e?style=for-the-badge&logo=NestJS&logoColor=E0234E)
+  ![html](https://img.shields.io/badge/-Node.js/Express-22272e?style=for-the-badge&logo=node.js&logoColor=339933)
+  ![html](https://img.shields.io/badge/-Laravel-22272e?style=for-the-badge&logo=Laravel&logoColor=FF2D20)
+  
 </details>
 
 <details>
@@ -119,26 +120,26 @@
   ![html](https://img.shields.io/badge/-Delphi-22272e?style=for-the-badge&logo=Delphi&logoColor=EE1F35)
 </details>
 
-<details>
-  <summary>📗 Learning:</summary>
+<!-- <details>
+  <summary>📗 Learning:</summary> -->
 
-  ![html](https://img.shields.io/badge/-react-22272e?style=for-the-badge&logo=react&logoColor=61DAFB)
+  <!-- ![html](https://img.shields.io/badge/-react-22272e?style=for-the-badge&logo=react&logoColor=61DAFB) -->
   <!-- ![html](https://img.shields.io/badge/-TypeScript-22272e?style=for-the-badge&logo=TypeScript&logoColor=3178C6) -->
   <!-- ![html](https://img.shields.io/badge/-Svelte-22272e?style=for-the-badge&logo=Svelte&logoColor=FF3E00) -->
   <!-- ![html](https://img.shields.io/badge/-Angular-22272e?style=for-the-badge&logo=Angular&logoColor=DD0031) -->
   
-  <details>
-  <summary>Queue for study:</summary>
+  <!-- <details>
+  <summary>Queue for study:</summary> -->
 
   <!--![html](https://img.shields.io/badge/-Svelte-22272e?style=for-the-badge&logo=Svelte&logoColor=FF3E00)-->
-  ![html](https://img.shields.io/badge/-Angular-22272e?style=for-the-badge&logo=Angular&logoColor=DD0031)
+  <!-- ![html](https://img.shields.io/badge/-Angular-22272e?style=for-the-badge&logo=Angular&logoColor=DD0031) -->
   <!-- ![html](https://img.shields.io/badge/-NestJS-22272e?style=for-the-badge&logo=NestJS&logoColor=E0234E) -->
   <!-- ![html](https://img.shields.io/badge/-PostgreSQL-22272e?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1) -->
   <!-- ![html](https://img.shields.io/badge/-Sequelize-22272e?style=for-the-badge&logo=Sequelize&logoColor=52B0E7) -->
     
-  </details>
+  <!-- </details>
   
-</details>
+</details> -->
 
 <details>
   <summary>💜 Love:</summary>
@@ -146,7 +147,7 @@
 <!--   ![html](https://img.shields.io/badge/-JetBrains-22272e?style=for-the-badge&logo=JetBrains&logoColor=fff) -->
   ![html](https://img.shields.io/badge/-PhpStorm-22272e?style=for-the-badge&logo=PhpStorm&logoColor=fff)
   ![html](https://img.shields.io/badge/-WebStorm-22272e?style=for-the-badge&logo=WebStorm&logoColor=fff)
-<!--   ![html](https://img.shields.io/badge/-VS%20Code-22272e?style=for-the-badge&logo=VisualStudioCode&logoColor=007ACC) -->
+  ![html](https://img.shields.io/badge/-VS%20Code-22272e?style=for-the-badge&logo=VisualStudioCode&logoColor=007ACC)
 <!--   ![html](https://img.shields.io/badge/-Insomnia-22272e?style=for-the-badge&logo=Insomnia&logoColor=4000BF) -->
 </details>
 
